@@ -200,4 +200,4 @@ MIT, see [LICENSE](LICENSE).
 
 ## Made by Coslynx
 
-[Coslynx](https://coslynx.com) makes Content Factory, software that makes explainer reels on your own computer with your own Claude plan. We built this check while making it, and keep it open.
+[Coslynx](https://coslynx.com) makes Content Factory, software that makes short-form video for brands and channels on your own computer, with your own Claude plan. We built this check while making it, and keep it open.
