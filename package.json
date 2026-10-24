@@ -1,0 +1,15 @@
+{
+  "name": "video-safety-check",
+  "version": "0.1.0",
+  "description": "Check any video for seizure-risk flashes (WCAG 2.3.1: general, red, reversing patterns), caption legibility (reading speed, line length, contrast) and loudness (EBU R128). CLI, Node and ffmpeg.",
+  "license": "MIT",
+  "author": "Coslynx (https://coslynx.com)",
+  "homepage": "https://github.com/CosLynxAI/video-safety-check",
+  "repository": { "type": "git", "url": "git+https://github.com/CosLynxAI/video-safety-check.git" },
+  "bin": { "video-safety-check": "bin/cli.js" },
+  "main": "src/index.js",
+  "files": ["bin", "src"],
+  "engines": { "node": ">=18.17" },
+  "scripts": { "test": "node --test" },
+  "keywords": ["photosensitive-epilepsy", "seizure", "flash", "wcag", "accessibility", "harding", "captions", "subtitles", "loudness", "ebu-r128", "ffmpeg", "video"]
+}
